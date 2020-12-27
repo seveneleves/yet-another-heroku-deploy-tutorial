@@ -14,13 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/nielsenjared/mern.git"
   },
-  "keywords": [
-    "mern",
-    "mongodb",
-    "react",
-    "express",
-    "node"
-  ],
   "author": "Jared Nielsen",
   "license": "ISC",
   "bugs": {
@@ -29,6 +22,8 @@
   "homepage": "https://github.com/nielsenjared/mern#readme",
   "dependencies": {
     "concurrently": "^3.6.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.16.4",
     "mongoose": "^5.8.3",
     "path": "^0.12.7"
